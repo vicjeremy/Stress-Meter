@@ -2,8 +2,7 @@
 
 Sistem Tes Tingkat Stress dengan metode Certainty Factor.
 
-*******************
-Team
-*******************
+## Team
+
 -  [Matthew Jova](https://github.com/MatthewJova)
 -  [Vic Jeremy](https://github.com/vicjeremy)
