@@ -10,8 +10,8 @@ Sistem Tes Tingkat Stress dengan metode Certainty Factor.
 ---
 
 - Hasil :
+  ![str2](Hasil/str.png)
   ![str1](Hasil/str1.png)
-  ![str2](Hasil/str2.png)
   ![str3](Hasil/str3.png)
   ![str4](Hasil/str4.png)
   ![str5](Hasil/str5.png)
